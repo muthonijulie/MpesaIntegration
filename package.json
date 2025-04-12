@@ -1,0 +1,23 @@
+{
+  "name": "mpesaintegration",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Elizabeth",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "https": "^1.0.0",
+    "moment": "^2.30.1",
+    "nodemon": "^3.1.9",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
